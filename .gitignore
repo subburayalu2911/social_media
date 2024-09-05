@@ -1,0 +1,6 @@
+env
+social_media_app/migrations
+media/
+
+social_media_app/__pycache__
+social_media/__pycache__

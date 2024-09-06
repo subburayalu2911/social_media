@@ -34,7 +34,7 @@ Follow these instructions to get the project up and running locally using Docker
 
 1. Clone the repository.
      ```
-     git clone https://github.com/your-username/your-repository-name.git
+     git clone https://github.com/subburayalu2911/social_media.git
      ```
 
      ```
